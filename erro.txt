@@ -1,0 +1,5 @@
+Erro 2 - Problema de Autenticação 
+
+Token incorreto
+Spotify sem autenticar
+Usuario não logado
